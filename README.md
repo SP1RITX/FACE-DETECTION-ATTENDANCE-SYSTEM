@@ -8,10 +8,10 @@ You can create a dataset of your face and train the system with that dataset, wi
 
 <h2>Examples</h2>
 
-![GUI ATTENDANCE SYSTEM](examples/example_gui.jpg?raw=true)
-<!--![GUI DATASET SYSTEM](examples/example_gui_2.jpg?raw=true)-->
+![GUI ATTENDANCE SYSTEM](/example_gui.jpg?raw=true)
+<!--![GUI DATASET SYSTEM](/example.jpg?raw=true)-->
 
-> # Get this app [here](https://github.com/aryaraj132/FaceDetection-AttendanceSystem/blob/main/setup.exe?raw=true)
+> # Get this app [here](https://github.com/SP1RITX/FACE-DETECTION-ATTENDANCE-SYSTEM/blob/main/setup.exe?raw=true)
 
 ## Libraries used
 
